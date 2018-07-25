@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1521814296 source:c:\users\micha\desktop\oop\rec08\gcd.cpp
+
+1521839339 source:c:\users\micha\desktop\oop\rec08\testrational.cpp
+	<iostream>
+	<string>
+	"Rational.h"
+
+1521841667 c:\users\micha\desktop\oop\rec08\rational.h
+	<string>
+	<iostream>
+

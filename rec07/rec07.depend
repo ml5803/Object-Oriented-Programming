@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1520641169 source:c:\users\micha\desktop\oop\rec07\course.cpp
+	"Course.h"
+	"Student.h"
+
+1520641292 c:\users\micha\desktop\oop\rec07\course.h
+	<vector>
+	<string>
+	<iostream>
+
+1520640115 c:\users\micha\desktop\oop\rec07\student.h
+	<string>
+	<vector>
+	<iostream>
+
+1520641459 source:c:\users\micha\desktop\oop\rec07\registrar.cpp
+	"Student.h"
+	"Course.h"
+	"Registrar.h"
+
+1520639746 c:\users\micha\desktop\oop\rec07\registrar.h
+	<iostream>
+	<string>
+	<vector>
+
+1520641547 source:c:\users\micha\desktop\oop\rec07\student.cpp
+	"Student.h"
+	"Course.h"
+
+1520641631 source:c:\users\micha\desktop\oop\rec07\main.cpp
+	"Registrar.h"
+	<iostream>
+
