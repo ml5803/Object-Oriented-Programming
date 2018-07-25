@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1521752937 source:c:\users\micha\desktop\oop\hw06\main.cpp
+	"Noble.h"
+	"Warrior.h"
+	<iostream>
+	<vector>
+	<string>
+
+1521771734 c:\users\micha\desktop\oop\hw06\noble.h
+	<vector>
+	<string>
+	<iostream>
+
+1521768587 c:\users\micha\desktop\oop\hw06\warrior.h
+	<vector>
+	<string>
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525298305 source:c:\users\micha\desktop\oop\hw08\testpolynomial.cpp
+	"polynomial.h"
+	<iostream>
+	<vector>
+	<cmath>
+
+1525291536 c:\users\micha\desktop\oop\hw08\polynomial.h
+	<iostream>
+	<string>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519439767 source:c:\users\micha\desktop\oop\hw04\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
