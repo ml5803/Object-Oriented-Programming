@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1525449728 source:c:\users\micha\desktop\oop\rec14\tree.cpp
+
+1525465432 source:c:\users\micha\desktop\oop\rec14\rec14.cpp
+	<iostream>
+	<stdexcept>
+
